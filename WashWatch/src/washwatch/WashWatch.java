@@ -15,7 +15,10 @@ public class WashWatch {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //Init code
+        
+        //Main timing loop: simple 1 min loop implementatation
+        
     }
     
 }
